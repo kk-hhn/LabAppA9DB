@@ -4,7 +4,7 @@
 1. Locate the .apk file in app/src/main/java | ALTERNATIVELY if you are on mobile, download only the apk from github
 2. execute it using an application like jadx | alternatively just click on it on your phone
 
-## Funktionsbeschreibung
+## Functions
 The App has a dashboard which is selected upon opening the app, with 2 options as buttons:
 - Unfinished Todos
 - Finished Todos
